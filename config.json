@@ -1,0 +1,9 @@
+{
+  "files": {
+    "export" : "export.csv"
+  },
+  "columns" : [
+    "Field",
+    "Value"
+  ]
+}
